@@ -1,0 +1,17 @@
+{
+  "name": "المشروع الاول",
+  "templateId": "empty",
+  "agent": {
+    "profile": "heavy",
+    "planApproval": true,
+    "askUser": true
+  },
+  "ai": {
+    "provider": "builtin_default",
+    "model": ""
+  },
+  "devServerCommand": "npm run dev",
+  "scripts": {
+    "dev": "npm run dev"
+  }
+}
